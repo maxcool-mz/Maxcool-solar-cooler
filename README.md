@@ -35,12 +35,11 @@ An autonomous cooling unit that:
 
 - Generates cold internally via DC compressor
 - Powered by integrated flexible solar panels (100W+)
-- LiFePO4 battery backup (3.2V cells) for up to 
-  15 hours of autonomy without sunlight
+- LiFePO4 battery backup (3.2V cells) for up to 10 hours of autonomy without sunlight
 - Temperature range: -10°C to +15°C
 - Zero external ice or electricity required
 - Capacity: 30L (initial model)
-- Target price: USD 290
+- Target starting price: USD 290
 
 
 ## Current Technical Status
